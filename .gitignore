@@ -1,0 +1,8 @@
+php/config.php
+projet/node_modules/
+projet/build/
+projet/dist/
+*.log
+.DS_Store
+cleaned_bilans/*.csv
+cleaned_bilans/*.xlsx
